@@ -8,13 +8,13 @@ Python,
 NLTK (Natural Language Toolkit),
 Tkinter
 
-🚀 How to Run
+🚀 How to Run :
 Install required library:
 pip install nltk;
 Run the program:
 python College_FAQ_Chatbot.py.
 
-💬 Features
+💬 Features :
 Answers frequently asked college questions;
 Basic NLP-based response matching;
 Simple GUI using Tkinter.
