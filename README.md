@@ -3,7 +3,7 @@
 A simple College FAQ Chatbot built using Python and Natural Language Processing (NLP).
 It answers common college-related queries such as admissions, fees, courses, hostel facilities, and more.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 Python
 NLTK (Natural Language Toolkit)
 Tkinter
@@ -19,7 +19,7 @@ Answers frequently asked college questions
 Basic NLP-based response matching
 Simple GUI using Tkinter
 
-👨‍💻 Author
+👨‍💻 Author :
 Digantika Singh
 
 Thank you.
